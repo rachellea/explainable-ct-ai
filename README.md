@@ -40,3 +40,9 @@ The code can also be run using the Singularity container defined [in this reposi
 
 This repo uses the Python unittest module for unit testing. You can use
 unittest discover to run the unit tests.
+
+## Dataset
+
+This research code was developed using the RAD-ChestCT dataset. The models
+in this codebase can be trained on the RAD-ChestCT dataset. CT scans from RAD-ChestCT
+are publicly available on Zenodo [at this link](https://zenodo.org/record/6406114).
